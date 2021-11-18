@@ -18,7 +18,6 @@ body {
 }
 .container {
   width: 20%;
-  background: red;
   display: flex;
   flex-direction: column;
   margin: 5%;
@@ -30,8 +29,42 @@ body {
 }
 .image_text {
   height: 10%;
-  background: yellow;
+  background: #444;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.red {
+  background: red;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background: green;
+}
+.cyan {
+  background: cyan;
+}
+.blue {
+  background: blue;
+}
+.purple {
+  background: purple;
+}
+.orange {
+  background: orange;
+}
+.brown {
+  background: brown;
+}
+.light {
+  background: #dcdcdc;
+}
+.dark {
+  background: #3a3a3a;
+}
+.pink {
+  background: pink;
 }
